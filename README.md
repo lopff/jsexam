@@ -1,2 +1,0 @@
-# jsexam
-Created with CodeSandbox
